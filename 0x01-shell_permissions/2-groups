@@ -1,2 +1,2 @@
 #!/bin/bash
-groups | tr   n
+groups | awk {print }
