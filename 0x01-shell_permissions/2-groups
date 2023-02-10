@@ -1,2 +1,2 @@
 #!/bin/bash
-groups | awk {print }
+chmod --reference=olleh hello
